@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "token.jwt",
+      "type": "java.lang.String",
+      "description": "知苗易约的token"
+  }
+] }
